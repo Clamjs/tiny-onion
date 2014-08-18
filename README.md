@@ -6,13 +6,13 @@ tiny-onion is a basic class for build onion like object.
 For Mac
 
 ```
-sudo npm install -g tiny-onion
+sudo npm install tiny-onion
 ```
 
 For Windows
 
 ```
-npm install -g tiny-onion
+npm install tiny-onion
 ```
 
 If U get some error like `"Cannot find module 'tiny-onion'"`, see [how to resolve the windows path](http://stackoverflow.com/questions/9587665/nodejs-cannot-find-installed-module-on-windows);

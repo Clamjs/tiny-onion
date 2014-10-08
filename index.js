@@ -1,1 +1,1 @@
-exports = module.exports = require('./lib/onion.js');
+module.exports = require('./lib/onion.js');

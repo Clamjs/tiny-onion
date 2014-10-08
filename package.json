@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "debug": "latest"
+    "mace": "latest"
   },
   "scripts": {
     "test": "node ./test/test.js"
